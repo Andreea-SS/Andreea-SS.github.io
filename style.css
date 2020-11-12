@@ -42,7 +42,14 @@ header, body > section {
 }
 footer {
     min-height: 20px;
+    text-align: center;
+    padding: 5px;
+    background-color: #334455;
 } 
+
+footer a {
+    color: white;
+}
 body{
   background-color: #f5f5f5;  
   margin: 0;
